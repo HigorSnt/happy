@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="happy" src=".github/logo.png" height="100px" />
+    <img alt="happy" src=".github/logo.png" width="100%"/>
     <br>Next Level Week #3<br/>
     Node.js | ReactJS | React Native
 </h1>
