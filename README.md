@@ -9,7 +9,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HigorSnt/happy?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/github/license/HigorSnt/happy?style=flat-square"> 
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
-  <a href="https://insomnia.rest/run/?label=Happy&uri=https%3A%2F%2Fraw.githubusercontent.com%2FHigorSnt%2Fhappy%2Fmaster%2F.github%2Fhappy.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://insomnia.rest/run/?label=Happy&uri=https%3A%2F%2Fraw.githubusercontent.com%2FHigorSnt%2Fhappy%2Fmain%2F.github%2Fhappy.json%3Ftoken%3DAJVY2TGSE4RAMLARHD5B7MTAHWNSE" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
